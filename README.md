@@ -22,6 +22,7 @@ I applied a conventional data analysis methodology. Based on the questions raise
 These measures provide analytical insight into how the user’s stock and inventory are performing.
 
 ![Flow Chart](https://github.com/PrinceIgweze/Inventory-Data-Analysis/blob/main/Flow%20Diagram.png)
+*Figure 1: Process Flow Chart*
 ### Task Approach
 
 For my dashboards, I determined that two dashboards would be optimal:
