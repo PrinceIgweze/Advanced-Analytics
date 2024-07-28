@@ -72,7 +72,7 @@ I applied the following business rules for calculating metrics using SQL on Micr
 - **Lost Sale Value:** `Number of backorders * Product list price`
 - **Overstock on Hand Value:** `Stock quantity - Product maximum stock level allowed`
 
-[Click to View SQL Query Code](#)
+[Click to View SQL Query Code](https://github.com/PrinceIgweze/E-Commerce-Inventory-Performance-Analysis/blob/main/Inventory%20Analysis%20SQL%20Query.sql)
 
 ## Analysis
 
