@@ -76,9 +76,15 @@ I applied the following business rules for calculating metrics using SQL on Micr
 
 ## Analysis
 
+![Flow Chart](https://github.com/PrinceIgweze/E-Commerce-Inventory-Performance-Analysis/blob/main/Ecommerce%20Stock%20Performance%20-%20Tableau.png?raw=true)
+*Figure 3: Ecommerce Stock Performance*    
+
 ### Stock Performance
 
 Analyzing the stock on hand cost, I found that it increases throughout the year and dips towards the end of the year, particularly in December and January. This suggests that inventory management may be ineffective. Lost sales analysis in 2018 showed a significant loss for projectors and screens, despite having reasonable stock on hand. This points to inefficiencies in placing backorders when reasonable stock is available.
+
+![Flow Chart](https://github.com/PrinceIgweze/E-Commerce-Inventory-Performance-Analysis/blob/main/General%20Ecommerce%20Performance.png?raw=true)
+*Figure 4: General Ecommerce Performance*  
 
 ### Overstock Performance
 
