@@ -45,6 +45,10 @@ For my dashboards, I determined that two dashboards would be optimal:
      - Overstock total cost
      - Overstock on hand total as a trend line
      - Slice by year, month, product, and subcategory
+       
+![Flow Chart](https://github.com/PrinceIgweze/Inventory-Data-Analysis/blob/main/Metrics%20Table.png?raw=true)
+*Figure 2: Metrics Table*    
+
 
 ## Table of Metrics and Data Source Tables
 
